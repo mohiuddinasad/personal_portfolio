@@ -30,4 +30,12 @@
   #contact .get_in {
     padding: 30px;
   }
+  #footer .contact {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #footer .phone a {
+    margin: 0;
+    margin-top: 10px;
+  }
 }
